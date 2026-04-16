@@ -7,6 +7,7 @@ This repo is set up so you can run the backend from the **top-level project fold
 From the repo root:
 
 ```bash
+cd .\pakiship_login_signup_BE-master
 npm install
 npm run start:dev
 ```
